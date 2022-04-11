@@ -6,6 +6,8 @@ Hire me for Advanced Laravel, Vue SPA and Tailwind Project->
 ## Website Link
 https://codewithpranta.com
 
+I am going to create this project with laravel9 backend now. I send pull request to all branches.
+
 ## Buy Me a Coffee
 https://www.buymeacoffee.com/codewithpranta
 
